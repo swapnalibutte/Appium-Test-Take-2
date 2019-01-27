@@ -1,0 +1,9 @@
+PageObjects\UserSelection.class
+PageObjects\Kindle.class
+Tests\LaunchAppTest.class
+PageObjects\KindlePaperwhite.class
+PageObjects\StockCheck.class
+PageObjects\AppConfiguaration.class
+Tests\AddKindlePaperWhileToCartTest.class
+PageObjects\AmazonHomepage.class
+PageObjects\TypeKindleEReader.class
